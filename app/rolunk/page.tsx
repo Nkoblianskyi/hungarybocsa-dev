@@ -162,10 +162,6 @@ export default function RolunkPage() {
                 height={460}
                 className="w-full h-[400px] object-cover"
               />
-              <div className="absolute -top-6 -left-6 bg-accent text-accent-foreground p-6 hidden lg:block">
-                <p className="font-sans text-xs tracking-[0.2em] uppercase opacity-70 mb-1">Alapitas</p>
-                <p className="font-serif text-3xl font-bold">2019</p>
-              </div>
             </div>
           </div>
         </div>
